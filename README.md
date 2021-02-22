@@ -35,8 +35,7 @@ As a new user, you may need to install the proper packages in order to run the a
 - [Env](https://www.npmjs.com/package/env)
 - [Express](https://www.npmjs.com/package/express)
 - [Handlebars](https://www.npmjs.com/package/handlebars)
-- Google Analytics
-- MySQL
+- [MySQL2](https://www.npmjs.com/package/mysql2)
 - [Materialize](https://materializecss.com/)
 - [Sequelize](https://www.npmjs.com/package/sequelize)
 
