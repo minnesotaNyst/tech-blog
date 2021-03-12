@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/clintonstrange/tech-blog.git"
+		"url": "git+https://github.com/minnesotaNyst/tech-blog-cms.git"
 	},
-	"author": "clintstrange",
+	"author": "minnesotaNyst",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/clintonstrange/tech-blog/issues"
+		"url": "https://github.com/minnesotaNyst/tech-blog-cms/issues"
 	},
-	"homepage": "https://github.com/clintonstrange/tech-blog#readme",
+	"homepage": "https://github.com/minnesotaNyst/tech-blog-coms#readme",
 	"dependencies": {
 		"bcrypt": "^5.0.0",
 		"connect-session-sequelize": "^7.1.0",
