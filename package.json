@@ -5,8 +5,10 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
-		"seed": "node seeds/index.js"
+		"seed": "node seeds/index.js",
+		"heroku-postbuild": "npm run seed"
 	},
+	"heroku-run-build-script": true,
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/minnesotaNyst/tech-blog-cms.git"
