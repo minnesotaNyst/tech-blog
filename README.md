@@ -48,7 +48,7 @@ I do not take personal credit for the completion of this challenge. Through work
 
 Live Deployed Application: [View Application]("Live Deploy")
 
-![Screenshot]("Proof of Application")
+![Screenshot](./public/assets/images/tech_blog.png)
 
 ---
 
